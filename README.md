@@ -47,7 +47,7 @@ The tuned Random Forest shows mild overfitting (train F1 0.74 vs test F1 0.62), 
 
 ## Dataset
 
-`Bank_Customer_Churn_Prediction_FinalCleaned.csv` contains 9,996 customer records and 12 columns (credit score, country, gender, age, tenure, balance, number of products, credit card, active member status, estimated salary, and churn label).
+`Dataset (Cleaned).csv` contains 9,996 customer records and 12 columns (credit score, country, gender, age, tenure, balance, number of products, credit card, active member status, estimated salary, and churn label).
 
 ## Report
 
