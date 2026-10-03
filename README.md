@@ -51,4 +51,4 @@ The tuned Random Forest shows mild overfitting (train F1 0.74 vs test F1 0.62), 
 
 ## Report
 
-The full report (in Indonesian) is available in [`report/`](Data-Analytics-Report/).
+The full report (in Indonesian) is available in [`Data-Analytics-Report.pdf`](Data-Analytics-Report.pdf/).
